@@ -1,4 +1,4 @@
-# twolaynet
+# twolayernet
 Inspired by CS231n Assignment 1
 
 In this project, we construct a two-layer neural network to distinguish between digits in MNIST image data set. We train the network with softmax loss and L2 regularization. To optimize the parameters, we use stochastic gradient decent. After tuning hyperparameters such as learning rates, hidden sizes and regularization strengths, we assess the performance of our neural network on test data.
